@@ -2,7 +2,7 @@
 
 This is the complete Open Source Project for our upcoming free beginner Godot 2D Platformer course. It will show you how to create your first Godot game from start to finish.
 
-![The game you'll create](./assets/project-banner.png)
+![The game you'll create](./platformer/assets/project-banner.png)
 
 ## What you'll learn ##
 
